@@ -1,4 +1,5 @@
-# **ARTSEM ZHURNEVICH**
+**ARTSEM ZHURNEVICH**
+======
 **Contact information:** 
 ======================
 * Phone: + 375 29 869 3495 
@@ -30,7 +31,7 @@ A month ago I learned about online courses at the RSS school. It turned out to b
 **Courses:**
 ============  
 
-* You - tubeж;
+* You - tube;
 * HTML and CSS HTML-academy;
 * learnjavascript.ru;
 * RS Schools Course «JavaScript/Front-end». 
