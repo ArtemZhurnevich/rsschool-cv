@@ -1,5 +1,5 @@
-#ARTSEM ZHURNEVICH#
-##Contact information:## 
+#**ARTSEM ZHURNEVICH**#
+##Contact information:
 #Phone: + 375 29 869 3495 E-mail: zhur2305@gmail.com Telegram: @Baron28 GitHub: ArtemZhurnevich#
 
 ##Briefly about yourself:##
