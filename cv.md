@@ -1,6 +1,6 @@
-**ARTSEM ZHURNEVICH**
+# **ARTSEM ZHURNEVICH**
 ================================================================
-**Contact information:** 
+## **Contact information:** 
 ===================================================================
 * Phone: + 375 29 869 3495 
 * E-mail: zhur2305@gmail.com 
