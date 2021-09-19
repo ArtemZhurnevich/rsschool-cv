@@ -1,5 +1,4 @@
 # **ARTSEM ZHURNEVICH**
-================================================================
 **Contact information:** 
 ======================
 * Phone: + 375 29 869 3495 
@@ -18,20 +17,14 @@ A month ago I learned about online courses at the RSS school. It turned out to b
 * VS Code, Adobe Photoshop
 * Git, GitHub
 * HTML5, CSS3
-* JavaScript Basics##
+* JavaScript Basics
 
 **Code Examples**
 ================================================================================
-```<!DOCTYPE html>
-<html>
-<body>
-
+```JavaScript
   <script>
     alert( "Я начал изучать JavaScript!" );
   </script>
-
-</body>
-</html>
 ```
 
 **Courses:**
@@ -43,6 +36,7 @@ A month ago I learned about online courses at the RSS school. It turned out to b
 * RS Schools Course «JavaScript/Front-end». 
 
 **Languages:**
+=============
 1. English - A1
 2. Russian - С1
 3. Belarussian - B1
