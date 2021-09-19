@@ -1,11 +1,11 @@
 # **ARTSEM ZHURNEVICH**
 ================================================================
-## **Contact information:** 
-===================================================================
+**Contact information:** 
+======================
 * Phone: + 375 29 869 3495 
 * E-mail: zhur2305@gmail.com 
 * Telegram: @Baron28 
-* GitHub: ArtemZhurnevich#
+* GitHub: [ArtemZhurnevich](https://github.com/ArtemZhurnevich)
 
 **Briefly about yourself:**
 =====================================================================
@@ -14,7 +14,7 @@ My name is Artem, I am 32 years old. I live in a small town in the Republic of B
 A month ago I learned about online courses at the RSS school. It turned out to be a very cool platform for learning web development! I think that I will succeed!)##
 
 **Skills and Proficiency:**
-==============================================================================
+===
 * VS Code, Adobe Photoshop
 * Git, GitHub
 * HTML5, CSS3
@@ -22,31 +22,27 @@ A month ago I learned about online courses at the RSS school. It turned out to b
 
 **Code Examples**
 ================================================================================
-```<section class="top">
-		<div class="container">
-			<div class="top__inner">
-				<div class="top-info">
-					<div class="top-info__subtitle">
-						Simple – Easy to use – 10x faster!
-					
-										<a class="top-info__btn" href="#"> Get Started Now!</a>
-					<div class="top-info__btn-descr">
-						*Special intro offer and 30-day money-back guarantee
-					</div>
-				</div>
-				/div>
-		</div>```
+```<!DOCTYPE html>
+<html>
+<body>
+
+  <script>
+    alert( "Я начал изучать JavaScript!" );
+  </script>
+
+</body>
+</html>
+```
 
 **Courses:**
+============  
 
 * You - tubeж;
 * HTML and CSS HTML-academy;
 * learnjavascript.ru;
 * RS Schools Course «JavaScript/Front-end». 
 
-
-
-Languages:
-English - A1
-Russian - С1
-Belarussian - B1
+**Languages:**
+1. English - A1
+2. Russian - С1
+3. Belarussian - B1
