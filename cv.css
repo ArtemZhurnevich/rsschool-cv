@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(129, 125, 125);
+    text-align: center;
+}
+
+.avatar{
+    float: center;
+    width: 100px;
+    height: 200px;
+}
+.RSS{
+    width: 100px;
+    height: 200px;
+}
+.footer{
+    
+}
