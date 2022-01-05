@@ -5,8 +5,8 @@ body {
 
 .avatar{
     /* float: center; */
-    width: 130px;
-    height: 180px;
+    width: 150px;
+    height: auto;
     border-radius: 25%;
 }
 .RSS{
@@ -26,12 +26,12 @@ body {
 }
 
 .block{
-    border: 5px solid rgba(78, 36, 8, 0.89);
+    border: 5px solid rgba(44, 21, 6, 0.89);
     max-width: 1000px;
     margin: 0px auto;
 }
 .block1{
-    background-color: rgb(125, 201, 204);
+    background-color: rgba(6, 108, 139, 0.013);
 }
 
 .block2{
@@ -57,4 +57,11 @@ align-self: center;
     text-transform:capitalize;
     letter-spacing: 2px;
     color: #242725;
+}
+
+#nav{
+    max-width: 500px;
+    font-size: 18px;
+    color: #242725;
+    
 }
